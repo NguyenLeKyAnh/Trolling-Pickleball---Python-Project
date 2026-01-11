@@ -15,6 +15,6 @@ This project was created as a school group project to explore game development u
   pip install pygame
 
 
-3. Run the program:
+2. Run the program:
    
   python Trolling_Pickleball.py
