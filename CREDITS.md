@@ -1,0 +1,14 @@
+## Credits
+
+Project members:
+- Nguyen Le Ky Anh  
+- Nguyen Nhat Minh  
+- Nguyen Anh Kiet  
+
+Music:
+- Music by Kevin MacLeod (incompetech.com)
+- Licensed under Creative Commons
+
+
+Sound effects:
+- Created using sfxr
